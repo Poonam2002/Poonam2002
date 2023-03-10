@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @Poonam2002
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning CSS
-- 💞️ I’m looking to collaborate on Github
-
-
-<!---
-Poonam2002/Poonam2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#YBI Foundation
+I would highly recommend this internship to everyone who wants to gain hands-on knowledge to their skills. At last I would like to thank YBI Foundation for giving me this opportunity to develop my skills.
+Great experience. YBI foundation is a great platform for learning. This is a non-profit organization, so every internship and training is almost free and cheaper so that can afford everyone. Before taking up this course, I don't have any basics of AI/ML but after I am very much familiar with python, models used in ML. The best part is that we get to learn through live interactive sessions and also implement the same through hands on practice projects.
